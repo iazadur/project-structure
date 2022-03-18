@@ -1,4 +1,6 @@
-const publicRoutes = [{
-	path: '/',
-	name: 'home'
-}]
+const publicRoutes = [
+  {
+    path: "/",
+    name: "home",
+  },
+];

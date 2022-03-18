@@ -1,10 +1,10 @@
 import TheLayout from "./views/pages/TheLayout";
 
-
-function App() { 
+function App() {
   return (
-    <TheLayout />
-    
+    <div className="">
+      <TheLayout />
+    </div>
   );
 }
 

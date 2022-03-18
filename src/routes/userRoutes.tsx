@@ -1,7 +1,7 @@
 const userRoutes = [
-	{
-		path: "/profile",
-		name: 'profile',
-		// component:<Profile />
-	}
-]
+  {
+    path: "/profile",
+    name: "profile",
+    // component:<Profile />
+  },
+];
